@@ -6,7 +6,18 @@ This repository demonstrates how to add observability, security, and metrics to 
 👉 [**LangChain4j ChatModel Listeners: A Complete Guide**](https://bootcamptoprod.com/langchain4j-chatmodel-listeners/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming soon!!
+👉 YouTube Tutorial - [**LangChain4j Listeners - Track Tokens, Log Requests & Monitor AI Performance**](https://youtu.be/yONlzoVplAc)
+
+<p align="center">
+  <a href="https://youtu.be/yONlzoVplAc">
+    <img src="https://img.youtube.com/vi/yONlzoVplAc/0.jpg" alt="LangChain4j Listeners - Track Tokens, Log Requests & Monitor AI Performance" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/yONlzoVplAc">Watch on YouTube</a>
+</p>
+
 ---
 
 ## ✨ What This Project Demonstrates
